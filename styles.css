@@ -1,3 +1,4 @@
+.three,
 .two,
 .top,
 body {
@@ -118,3 +119,27 @@ align-items: center;
     font-weight: 900;
     color: #1f2937;
 }
+
+.three {
+    background-color: #e5e7eb;
+    align-items: center;
+    text-align: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: 300;
+    width: 800px;  
+    margin-bottom: auto;
+    margin-top: 100px;
+}
+
+.thor {
+    padding-left: 650px;
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
