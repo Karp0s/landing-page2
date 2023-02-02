@@ -79,7 +79,8 @@ html {
     padding: 8px 36px;
     border-radius: 6px;
     font-weight: 900;
-    font-size: 16px
+    font-size: 16px;
+    border-color: #3882f6;
 }
 
 a {
@@ -106,8 +107,7 @@ a {
 
 .cards {
     gap:32px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 12px auto 90px auto;
 }
 
 .two {
@@ -118,6 +118,7 @@ align-items: center;
     font-size: 36px;
     font-weight: 900;
     color: #1f2937;
+    margin-top: 40px;
 }
 
 .three {
@@ -142,4 +143,28 @@ align-items: center;
     font-weight: 300;
     margin-bottom: 50px;
 }
+
+.four {
+    display: flex;
+    margin: 90px auto;
+    background-color: #3882f6;
+    gap: 275px;
+    padding: 20px 90px;
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.second-button {
+    background-color: #3882f6;
+    height: 40px;
+    color: white;
+    width: 130px;
+    border-radius: 10px;
+    border: solid white 3px;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+
 
